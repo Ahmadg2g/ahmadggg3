@@ -3,3 +3,4 @@
 # 1. تحديث الحزم وتثبيت hashcat
 echo "جاري تثبيت Hashcat..."
 sudo apt install hashcat -y
+sudo apt install crunch
